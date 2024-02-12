@@ -5,13 +5,12 @@ library(glue)
 # Load the data from CSV
 data <- read.csv("data/mturkiter2.csv")
 
+prompt_template <- readLines("prompt_template.txt") %>% paste(collapse = "\n")
+
+
 # Exclude specific workerIds
 data_filtered <- data %>%
   filter(!workerId %in% c("A27VK38SRSSHV3", "A2Y7L7R5UTQ5R2", "A29P011QEF23G8"))
-
-# Drop the first 54 observations
-data_filtered <- data_filtered %>%
-  slice(-1:-54)
 
 # Pivot the data to a longer format, filter for causal scenarios, and create the `place` column
 long_data <- data_filtered %>%
@@ -26,7 +25,13 @@ long_data <- data_filtered %>%
   select(place, scenario, value)  # Select only the place, scenario, and value columns
 
 long_data <- long_data %>%
-  mutate(embedded_prompt = glue("Imagine a typical {place}. Now consider this statement about that place:\n\n{value}.\n\nRespond with a \"1\" if you believe this is true, and a \"0\" if you believe this is false."))
+  mutate(place = str_remove_all(place, "(?i)\\b(?:the|a)\\b\\s*"))
+
+long_data <- long_data %>%
+  mutate(embedded_prompt = glue(prompt_template))
+
+long_data <- long_data %>%
+  slice(-1:-54)
 
 # View the updated dataframe
 print(long_data, n=100)

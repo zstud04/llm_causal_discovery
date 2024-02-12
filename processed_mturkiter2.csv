@@ -1,1 +1,496 @@
 "place","scenario","value","embedded_prompt"
+"park","scenario_1_causal_1","if the dog bites the kid then it would have rabies","Imagine a typical park. Now consider this statement about that place:
+
+if the dog bites the kid then it would have rabies.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"park","scenario_1_causal_2","if the pedo diddles the kid then he should be hanged","Imagine a typical park. Now consider this statement about that place:
+
+if the pedo diddles the kid then he should be hanged.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"park","scenario_1_causal_3","if someone litters then the plastic gets eaten by seagulls","Imagine a typical park. Now consider this statement about that place:
+
+if someone litters then the plastic gets eaten by seagulls.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"home","scenario_2_causal_1","if the mouse skitters across the floor then you might step on it","Imagine a typical home. Now consider this statement about that place:
+
+if the mouse skitters across the floor then you might step on it.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"home","scenario_2_causal_2","if the spider lives too long then the baby spiders will swarm","Imagine a typical home. Now consider this statement about that place:
+
+if the spider lives too long then the baby spiders will swarm.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"home","scenario_2_causal_3","if the heat runs for infinity then the house might overheat","Imagine a typical home. Now consider this statement about that place:
+
+if the heat runs for infinity then the house might overheat.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"pond","scenario_3_causal_1","if the fisherman fishes then the fish will bite","Imagine a typical pond. Now consider this statement about that place:
+
+if the fisherman fishes then the fish will bite.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"pond","scenario_3_causal_2","if the boat rocks then it might rock over","Imagine a typical pond. Now consider this statement about that place:
+
+if the boat rocks then it might rock over.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"pond","scenario_3_causal_3","if the pond explodes then the fish will die","Imagine a typical pond. Now consider this statement about that place:
+
+if the pond explodes then the fish will die.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Movie theater","scenario_1_causal_1","If the drink is spilled then someone else will clean it up.","Imagine a typical Movie theater. Now consider this statement about that place:
+
+If the drink is spilled then someone else will clean it up..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Movie theater","scenario_1_causal_2","If you yell at the screen then someone will throw food at you.","Imagine a typical Movie theater. Now consider this statement about that place:
+
+If you yell at the screen then someone will throw food at you..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Movie theater","scenario_1_causal_3","If you answer your phone you'll make everyone else upset.","Imagine a typical Movie theater. Now consider this statement about that place:
+
+If you answer your phone you'll make everyone else upset..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"mall","scenario_2_causal_1","If the store is closed then shoppers will still buy products.","Imagine a typical mall. Now consider this statement about that place:
+
+If the store is closed then shoppers will still buy products..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"mall","scenario_2_causal_2","If the teenagers stop coming the mall is dead.","Imagine a typical mall. Now consider this statement about that place:
+
+If the teenagers stop coming the mall is dead..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"mall","scenario_2_causal_3","If you enter the store from the street the mall is failing.","Imagine a typical mall. Now consider this statement about that place:
+
+If you enter the store from the street the mall is failing..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"dog park","scenario_3_causal_1","If you throw a ball for your dog another dog will take it to their owner.","Imagine a typical dog park. Now consider this statement about that place:
+
+If you throw a ball for your dog another dog will take it to their owner..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"dog park","scenario_3_causal_2","If you look at your phone too much you'll miss all the cute animals.","Imagine a typical dog park. Now consider this statement about that place:
+
+If you look at your phone too much you'll miss all the cute animals..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"dog park","scenario_3_causal_3","If your dog is too friendly they'll have to go home.","Imagine a typical dog park. Now consider this statement about that place:
+
+If your dog is too friendly they'll have to go home..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Bar","scenario_1_causal_1","If the lady has too much, then she might get tipsy.","Imagine a typical Bar. Now consider this statement about that place:
+
+If the lady has too much, then she might get tipsy..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Bar","scenario_1_causal_2","If the Uber shows up late, then the man might have to walk.","Imagine a typical Bar. Now consider this statement about that place:
+
+If the Uber shows up late, then the man might have to walk..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Bar","scenario_1_causal_3","If the tip is too low, then the bartender might quit.","Imagine a typical Bar. Now consider this statement about that place:
+
+If the tip is too low, then the bartender might quit..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Zoo","scenario_2_causal_1","If the giraffe jumps, then it might hit its head.","Imagine a typical Zoo. Now consider this statement about that place:
+
+If the giraffe jumps, then it might hit its head..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Zoo","scenario_2_causal_2","If the child falls into the cage, then he will be eaten.","Imagine a typical Zoo. Now consider this statement about that place:
+
+If the child falls into the cage, then he will be eaten..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Zoo","scenario_2_causal_3","If the snake slithers away, it might get run over.","Imagine a typical Zoo. Now consider this statement about that place:
+
+If the snake slithers away, it might get run over..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Car","scenario_3_causal_1","If the keys don't work, then she will scream.","Imagine a typical Car. Now consider this statement about that place:
+
+If the keys don't work, then she will scream..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Car","scenario_3_causal_2","If the tire is flat, then she will call someone.","Imagine a typical Car. Now consider this statement about that place:
+
+If the tire is flat, then she will call someone..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Car","scenario_3_causal_3","If the weather is hot, then she will roll down the window.","Imagine a typical Car. Now consider this statement about that place:
+
+If the weather is hot, then she will roll down the window..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"School","scenario_1_causal_1","If the boy loses his pencil, he will not be able to write.","Imagine a typical School. Now consider this statement about that place:
+
+If the boy loses his pencil, he will not be able to write..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"School","scenario_1_causal_2","If the man drops his books, he will be late to class.","Imagine a typical School. Now consider this statement about that place:
+
+If the man drops his books, he will be late to class..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"School","scenario_1_causal_3","if the lady spills her coffee, her desk will be a mess.","Imagine a typical School. Now consider this statement about that place:
+
+if the lady spills her coffee, her desk will be a mess..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Swimming Pool","scenario_2_causal_1","If they lose the sunscreen, they will get burned.","Imagine a typical Swimming Pool. Now consider this statement about that place:
+
+If they lose the sunscreen, they will get burned..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Swimming Pool","scenario_2_causal_2","If the man brings his towel, he will be able to dry off.","Imagine a typical Swimming Pool. Now consider this statement about that place:
+
+If the man brings his towel, he will be able to dry off..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Swimming Pool","scenario_2_causal_3","if the children throw a ball, it will make a big splash. ","Imagine a typical Swimming Pool. Now consider this statement about that place:
+
+if the children throw a ball, it will make a big splash. .
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_3_causal_1","If the lady drops her purse, she will have to pick everything up.","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If the lady drops her purse, she will have to pick everything up..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_3_causal_2","If the man forgets his money, he will not be able to pay.","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If the man forgets his money, he will not be able to pay..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_3_causal_3","If I drop a jar, there will be a mess to clean up. ","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If I drop a jar, there will be a mess to clean up. .
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"bedroom","scenario_1_causal_1","If together a place for sex","Imagine a typical bedroom. Now consider this statement about that place:
+
+If together a place for sex.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"bedroom","scenario_1_causal_2","Snoring allowed when asleep","Imagine a typical bedroom. Now consider this statement about that place:
+
+Snoring allowed when asleep.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"bedroom","scenario_1_causal_3","Dancing not allowed when there","Imagine a typical bedroom. Now consider this statement about that place:
+
+Dancing not allowed when there.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Pool","scenario_2_causal_1","When there you definitedly are not allowed to pee in it.","Imagine a typical Pool. Now consider this statement about that place:
+
+When there you definitedly are not allowed to pee in it..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Pool","scenario_2_causal_2","If there you swim","Imagine a typical Pool. Now consider this statement about that place:
+
+If there you swim.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Pool","scenario_2_causal_3","Sailing in rafts allowed","Imagine a typical Pool. Now consider this statement about that place:
+
+Sailing in rafts allowed.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"car","scenario_3_causal_1","If speeding you will get a ticket","Imagine a typical car. Now consider this statement about that place:
+
+If speeding you will get a ticket.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"car","scenario_3_causal_2","Going slow is not allowed too.","Imagine a typical car. Now consider this statement about that place:
+
+Going slow is not allowed too..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"car","scenario_3_causal_3","Seatbelts are a good idea","Imagine a typical car. Now consider this statement about that place:
+
+Seatbelts are a good idea.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Football game","scenario_1_causal_1","If the home team quarterback throws a touchdown pass, then the crowd will scream.","Imagine a typical Football game. Now consider this statement about that place:
+
+If the home team quarterback throws a touchdown pass, then the crowd will scream..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Football game","scenario_1_causal_2","If the ref calls a flag on the home team, then the players will be frustrated.","Imagine a typical Football game. Now consider this statement about that place:
+
+If the ref calls a flag on the home team, then the players will be frustrated..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Football game","scenario_1_causal_3","If the game ends in a tie, then the fans will not be that pleased with the outcome.","Imagine a typical Football game. Now consider this statement about that place:
+
+If the game ends in a tie, then the fans will not be that pleased with the outcome..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Backyard barbecue","scenario_2_causal_1","If the person grilling forgets to check the food, then there will be no food to eat.","Imagine a typical Backyard barbecue. Now consider this statement about that place:
+
+If the person grilling forgets to check the food, then there will be no food to eat..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Backyard barbecue","scenario_2_causal_2","If the party is without alcohol to drink, then it won't be as fun.","Imagine a typical Backyard barbecue. Now consider this statement about that place:
+
+If the party is without alcohol to drink, then it won't be as fun..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Backyard barbecue","scenario_2_causal_3","If the stereo breaks, then there won't be music to dance to. ","Imagine a typical Backyard barbecue. Now consider this statement about that place:
+
+If the stereo breaks, then there won't be music to dance to. .
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Airport","scenario_3_causal_1","If the lady forgets her luggage bag at the check-in desk, then she will possibly miss her flight.","Imagine a typical Airport. Now consider this statement about that place:
+
+If the lady forgets her luggage bag at the check-in desk, then she will possibly miss her flight..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Airport","scenario_3_causal_2","If the man drinks too many drinks before getting on the airplane, then he will act up on the flight.","Imagine a typical Airport. Now consider this statement about that place:
+
+If the man drinks too many drinks before getting on the airplane, then he will act up on the flight..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Airport","scenario_3_causal_3","If the woman brings a lime green luggage bag to the terminal, then the baggage carrier willbe able to pick it out easily from others.","Imagine a typical Airport. Now consider this statement about that place:
+
+If the woman brings a lime green luggage bag to the terminal, then the baggage carrier willbe able to pick it out easily from others..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Bar","scenario_1_causal_1","If the Man makes the long island iced tea and slides it across the table, the customer will get the drink in their hand","Imagine a typical Bar. Now consider this statement about that place:
+
+If the Man makes the long island iced tea and slides it across the table, the customer will get the drink in their hand.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Bar","scenario_1_causal_2","If the patron is carrying drinks on a tray moving fast, he will knock the table next to the bar and spill all the drinks","Imagine a typical Bar. Now consider this statement about that place:
+
+If the patron is carrying drinks on a tray moving fast, he will knock the table next to the bar and spill all the drinks.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Bar","scenario_1_causal_3","If the Man plays music in the jukebox, the music will play after the song before and play for a few minutes","Imagine a typical Bar. Now consider this statement about that place:
+
+If the Man plays music in the jukebox, the music will play after the song before and play for a few minutes.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_2_causal_1","If the Man pushes the shopping cart fast, he will knock down the pyramid of canned food","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If the Man pushes the shopping cart fast, he will knock down the pyramid of canned food.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_2_causal_2","If the Man stocks too many boxes in the warehouse next door, they will fall over and knock the rest of the other boxes down","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If the Man stocks too many boxes in the warehouse next door, they will fall over and knock the rest of the other boxes down.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_2_causal_3","If the Woman scanning the products is not paying attention, then she will lose track and scan all the products leaving the store properly","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If the Woman scanning the products is not paying attention, then she will lose track and scan all the products leaving the store properly.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Beach","scenario_3_causal_1","If the Man swims too close with his surf board against the waves, then he will get swept away and possibly may drown","Imagine a typical Beach. Now consider this statement about that place:
+
+If the Man swims too close with his surf board against the waves, then he will get swept away and possibly may drown.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Beach","scenario_3_causal_2","If the family perch their beach things near the shoreline, the water will wash their stuff away and get everything wet","Imagine a typical Beach. Now consider this statement about that place:
+
+If the family perch their beach things near the shoreline, the water will wash their stuff away and get everything wet.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Beach","scenario_3_causal_3","If the man throws the beach ball past the shoreline, The waves will move the ball too far to swim and get it back","Imagine a typical Beach. Now consider this statement about that place:
+
+If the man throws the beach ball past the shoreline, The waves will move the ball too far to swim and get it back.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Coffee Shop","scenario_1_causal_1","If a customer leaves their laptop unattended on a table for an extended period, another customer might take it to lost and found.","Imagine a typical Coffee Shop. Now consider this statement about that place:
+
+If a customer leaves their laptop unattended on a table for an extended period, another customer might take it to lost and found..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Coffee Shop","scenario_1_causal_2","If a barista notices a regular customer looking unwell, they might offer them water or inquire if they're alright.","Imagine a typical Coffee Shop. Now consider this statement about that place:
+
+If a barista notices a regular customer looking unwell, they might offer them water or inquire if they're alright..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Coffee Shop","scenario_1_causal_3","If a child spills their drink on the floor, a parent or staff member will likely clean it up immediately.","Imagine a typical Coffee Shop. Now consider this statement about that place:
+
+If a child spills their drink on the floor, a parent or staff member will likely clean it up immediately..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_2_causal_1","If a customer accidentally knocks over a display of fruits, they will likely apologize to a staff member and help clean it up.","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If a customer accidentally knocks over a display of fruits, they will likely apologize to a staff member and help clean it up..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_2_causal_2","If a child throws a tantrum because they want candy, a parent will likely try to calm them down and explain why they can't have it.","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If a child throws a tantrum because they want candy, a parent will likely try to calm them down and explain why they can't have it..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Grocery Store","scenario_2_causal_3","If someone notices an expired product on the shelf, they might inform a staff member so it can be removed.","Imagine a typical Grocery Store. Now consider this statement about that place:
+
+If someone notices an expired product on the shelf, they might inform a staff member so it can be removed..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Public Library","scenario_3_causal_1","If a patron returns a book several weeks overdue, they will likely owe a late fee.","Imagine a typical Public Library. Now consider this statement about that place:
+
+If a patron returns a book several weeks overdue, they will likely owe a late fee..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Public Library","scenario_3_causal_2","If a child starts running through the library, a librarian or parent might remind them to walk quietly.","Imagine a typical Public Library. Now consider this statement about that place:
+
+If a child starts running through the library, a librarian or parent might remind them to walk quietly..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Public Library","scenario_3_causal_3","If someone donates a rare book to the library, they might receive a special thank you from the librarian or even have their name listed as a donor.","Imagine a typical Public Library. Now consider this statement about that place:
+
+If someone donates a rare book to the library, they might receive a special thank you from the librarian or even have their name listed as a donor..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"School","scenario_1_causal_1","If the school bell rings, students then need to be in classroom waiting for class to begin.","Imagine a typical School. Now consider this statement about that place:
+
+If the school bell rings, students then need to be in classroom waiting for class to begin..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"School","scenario_1_causal_2","If the teacher says ' class dimisses', students then can have their break to relax between classes,","Imagine a typical School. Now consider this statement about that place:
+
+If the teacher says ' class dimisses', students then can have their break to relax between classes,.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"School","scenario_1_causal_3","If two student are being disrespectful to each other, they then will be punished by their dean.","Imagine a typical School. Now consider this statement about that place:
+
+If two student are being disrespectful to each other, they then will be punished by their dean..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"grocery store","scenario_2_causal_1","If a customer buy some produce, they then will need to pay for it.","Imagine a typical grocery store. Now consider this statement about that place:
+
+If a customer buy some produce, they then will need to pay for it..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"grocery store","scenario_2_causal_2","If a customer doesn't pay for what they have, they then will be caught and punished.","Imagine a typical grocery store. Now consider this statement about that place:
+
+If a customer doesn't pay for what they have, they then will be caught and punished..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"grocery store","scenario_2_causal_3","If there is free pastry sample, people then can have a tiny bite of the taste.","Imagine a typical grocery store. Now consider this statement about that place:
+
+If there is free pastry sample, people then can have a tiny bite of the taste..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Library","scenario_3_causal_1","If a person wants to borrow a book, then they need to send the borrow requests.","Imagine a typical Library. Now consider this statement about that place:
+
+If a person wants to borrow a book, then they need to send the borrow requests..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Library","scenario_3_causal_2","If a person takes a book without sending borrow requests, then they will be punished by library rules.","Imagine a typical Library. Now consider this statement about that place:
+
+If a person takes a book without sending borrow requests, then they will be punished by library rules..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Library","scenario_3_causal_3","If you are in a quiet area in the library, then you should not talk loud.","Imagine a typical Library. Now consider this statement about that place:
+
+If you are in a quiet area in the library, then you should not talk loud..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"bus","scenario_1_causal_1","If an older person did not have a seat then a younger person having a sit is likely  to offer him/her the sit.","Imagine a typical bus. Now consider this statement about that place:
+
+If an older person did not have a seat then a younger person having a sit is likely  to offer him/her the sit..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"bus","scenario_1_causal_2","If someone had a kid then they are likely to sit near a window.","Imagine a typical bus. Now consider this statement about that place:
+
+If someone had a kid then they are likely to sit near a window..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"bus","scenario_1_causal_3","If someone had some goods then they are likely to pay more than the rest.","Imagine a typical bus. Now consider this statement about that place:
+
+If someone had some goods then they are likely to pay more than the rest..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"swimming pool","scenario_2_causal_1","If the person happens to be a kid, then they are likely to be charged less.","Imagine a typical swimming pool. Now consider this statement about that place:
+
+If the person happens to be a kid, then they are likely to be charged less..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"swimming pool","scenario_2_causal_2","If a person is a kid, then they are likely to swim in the shallow end.","Imagine a typical swimming pool. Now consider this statement about that place:
+
+If a person is a kid, then they are likely to swim in the shallow end..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"swimming pool","scenario_2_causal_3","If a person did not carry swimming costumes, then they will be charged more.","Imagine a typical swimming pool. Now consider this statement about that place:
+
+If a person did not carry swimming costumes, then they will be charged more..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Recreation park","scenario_3_causal_1","If children are visiting, then they are likely to be accompanied by an adult.","Imagine a typical Recreation park. Now consider this statement about that place:
+
+If children are visiting, then they are likely to be accompanied by an adult..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Recreation park","scenario_3_causal_2","If it is a public recreation park, then they are likely to be large crowd.","Imagine a typical Recreation park. Now consider this statement about that place:
+
+If it is a public recreation park, then they are likely to be large crowd..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"Recreation park","scenario_3_causal_3","If they are pets to be allowed, then they must be accompanied by the owner.","Imagine a typical Recreation park. Now consider this statement about that place:
+
+If they are pets to be allowed, then they must be accompanied by the owner..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"grocery store","scenario_1_causal_1","If the person accidentally dropped the carton of eggs, then they would crack and make a mess on the floor","Imagine a typical grocery store. Now consider this statement about that place:
+
+If the person accidentally dropped the carton of eggs, then they would crack and make a mess on the floor.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"grocery store","scenario_1_causal_2","If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground.","Imagine a typical grocery store. Now consider this statement about that place:
+
+If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"grocery store","scenario_1_causal_3","If the child pushed the display of glass bottles, then they would likely shatter and create a hazardous mess on the floor","Imagine a typical grocery store. Now consider this statement about that place:
+
+If the child pushed the display of glass bottles, then they would likely shatter and create a hazardous mess on the floor.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"locaion","scenario_2_causal_1","If a child played with the cereal boxes and knocked them off the shelf, then they might burst open, scattering cereal everywhere","Imagine a typical locaion. Now consider this statement about that place:
+
+If a child played with the cereal boxes and knocked them off the shelf, then they might burst open, scattering cereal everywhere.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"locaion","scenario_2_causal_2","If a shopper accidentally spilled a bottle of olive oil, then the floor could become dangerously slippery","Imagine a typical locaion. Now consider this statement about that place:
+
+If a shopper accidentally spilled a bottle of olive oil, then the floor could become dangerously slippery.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"locaion","scenario_2_causal_3","If the customer squeezed the loaf of bread too hard, then it could become squished and flattened","Imagine a typical locaion. Now consider this statement about that place:
+
+If the customer squeezed the loaf of bread too hard, then it could become squished and flattened.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"gym","scenario_3_causal_1","If the person drops a weight on the floor, it could make a loud noise.","Imagine a typical gym. Now consider this statement about that place:
+
+If the person drops a weight on the floor, it could make a loud noise..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"gym","scenario_3_causal_2","If the person drops the dumbbell, it may cause a loud noise and potentially damage the floor.","Imagine a typical gym. Now consider this statement about that place:
+
+If the person drops the dumbbell, it may cause a loud noise and potentially damage the floor..
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."
+"gym","scenario_3_causal_3","If someone left their water bottle on the weight bench, someone else might accidentally knock it over when lifting weights, causing a spill","Imagine a typical gym. Now consider this statement about that place:
+
+If someone left their water bottle on the weight bench, someone else might accidentally knock it over when lifting weights, causing a spill.
+
+Respond with a ""1"" if you believe this is true, and a ""0"" if you believe this is false."

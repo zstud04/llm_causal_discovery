@@ -1,0 +1,5 @@
+Imagine a typical {place}. Now consider this statement about that place:
+
+{value}.
+
+Respond with a "1" if you believe this is true, and a "0" if you believe this is false.
