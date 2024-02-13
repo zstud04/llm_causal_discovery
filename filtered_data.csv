@@ -1,11 +1,29 @@
 "workerId","place","scenario_base","scenario_num","causal_value","counterfactual_value","embedded_prompt"
-"","Library","scenario_3_",3,"If you are in a quiet area in the library, then you should not talk loud.","If you had been in a quiet area in the library, then you wouldn't have been talking loud.","Imagine a typical Library. Now consider these two statements about that place:
+"","Beach","scenario_2_",3,"If I put on sunglasses, and put on another pair and take those off, then I will still be wearing sunglasses ","If I were to put on a pair of sunglasses, and then pot on another pair and take those off, then I would still be wearing sunglasses ","Imagine a typical Beach. Now consider these two statements about that place:
 
 STATEMENT 1:
-If you are in a quiet area in the library, then you should not talk loud..
+If I put on sunglasses, and put on another pair and take those off, then I will still be wearing sunglasses .
 
 STATEMENT 2:
-If you had been in a quiet area in the library, then you wouldn't have been talking loud.
+If I were to put on a pair of sunglasses, and then pot on another pair and take those off, then I would still be wearing sunglasses 
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"","Library","scenario_3_",2,"If a person takes a book without sending borrow requests, then they will be punished by library rules.","If a person had taken a book withsending borrow requests, then they  wouldn't have been punished by library rules.","Imagine a typical Library. Now consider these two statements about that place:
+
+STATEMENT 1:
+If a person takes a book without sending borrow requests, then they will be punished by library rules..
+
+STATEMENT 2:
+If a person had taken a book withsending borrow requests, then they  wouldn't have been punished by library rules.
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"","School","scenario_1_",3,"If two student are being disrespectful to each other, they then will be punished by their dean.","If two student hadn't been disrespectful to each other, they then wouldn't have been punished by their dean","Imagine a typical School. Now consider these two statements about that place:
+
+STATEMENT 1:
+If two student are being disrespectful to each other, they then will be punished by their dean..
+
+STATEMENT 2:
+If two student hadn't been disrespectful to each other, they then wouldn't have been punished by their dean
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "","Train","scenario_1_",1,"If I see a building while riding the train, that building is between my destination and point of origin ","If I hadn't seen a nuclear power plant on my trip, I wouldn't have known there is one between Detroit and Chicago ","Imagine a typical Train. Now consider these two statements about that place:
@@ -17,22 +35,22 @@ STATEMENT 2:
 If I hadn't seen a nuclear power plant on my trip, I wouldn't have known there is one between Detroit and Chicago 
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"","Train","scenario_1_",2,"If I am sitting down on the train, I am either drinking coffee or not drinking coffee","If I was sitting on the train, then I either would or would not be drinking coffee","Imagine a typical Train. Now consider these two statements about that place:
+"","Train","scenario_1_",3,"If the sleeping car is not open, then I can still sleep on the train","If the sleeping car is not open, then I would still be able to sleep on the train","Imagine a typical Train. Now consider these two statements about that place:
 
 STATEMENT 1:
-If I am sitting down on the train, I am either drinking coffee or not drinking coffee.
+If the sleeping car is not open, then I can still sleep on the train.
 
 STATEMENT 2:
-If I was sitting on the train, then I either would or would not be drinking coffee
+If the sleeping car is not open, then I would still be able to sleep on the train
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"","University campus","scenario_3_",1,"If someone had taken a campus tour, then they'd have seen the university ","If someone took a campus tour, then they would have seen the university ","Imagine a typical University campus. Now consider these two statements about that place:
+"","grocery store","scenario_2_",1,"If a customer buy some produce, they then will need to pay for it.","If a customer hadn't bought any produce, they then woudn't need need to pay for it,","Imagine a typical grocery store. Now consider these two statements about that place:
 
 STATEMENT 1:
-If someone had taken a campus tour, then they'd have seen the university .
+If a customer buy some produce, they then will need to pay for it..
 
 STATEMENT 2:
-If someone took a campus tour, then they would have seen the university 
+If a customer hadn't bought any produce, they then woudn't need need to pay for it,
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "","grocery store","scenario_2_",2,"If a customer doesn't pay for what they have, they then will be caught and punished.","If a customer had paid for what they have, they then wouldn't have been caught and punished.","Imagine a typical grocery store. Now consider these two statements about that place:
@@ -44,13 +62,13 @@ STATEMENT 2:
 If a customer had paid for what they have, they then wouldn't have been caught and punished.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"","grocery store","scenario_2_",3,"If there is free pastry sample, people then can have a tiny bite of the taste.","If there had been free pastry samples, people then would've had tiny bites of the taste","Imagine a typical grocery store. Now consider these two statements about that place:
+"85754","Airport","scenario_3_",1,"If someone brings water through security, security will take the water, then the person will have to purchase a new water.","If someone would've brought a water through security, then they would not come out of security with that water.","Imagine a typical Airport. Now consider these two statements about that place:
 
 STATEMENT 1:
-If there is free pastry sample, people then can have a tiny bite of the taste..
+If someone brings water through security, security will take the water, then the person will have to purchase a new water..
 
 STATEMENT 2:
-If there had been free pastry samples, people then would've had tiny bites of the taste
+If someone would've brought a water through security, then they would not come out of security with that water.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "85754","Airport","scenario_3_",2,"If someone prints their plane tickets ahead of time, they wont have to print them at the airport, and then it will take less long.","If someone wouldn't print their tickets ahead of time, then they would have to find a place to print their airline tickets.","Imagine a typical Airport. Now consider these two statements about that place:
@@ -71,13 +89,13 @@ STATEMENT 2:
 If someone wouldn't loose their luggage, then they will retrieve their luggage when they arrive in their destination
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"85754","Classroom","scenario_2_",1,"If someone writes on a chalkboard, they will have to use an eraser to remove the writing","If someone would've wrote with marker instead of chalk, then they might not be able to use the eraser.","Imagine a typical Classroom. Now consider these two statements about that place:
+"85754","Grocery store","scenario_1_",1,"If a man put stawberries on his grocery list, then he will have to find them at the grocery store and then purchase them","If a man would've forgotten to purchase the strawberries at the grocery store, then he would have had to go back and purchase the strawberries at a different time.","Imagine a typical Grocery store. Now consider these two statements about that place:
 
 STATEMENT 1:
-If someone writes on a chalkboard, they will have to use an eraser to remove the writing.
+If a man put stawberries on his grocery list, then he will have to find them at the grocery store and then purchase them.
 
 STATEMENT 2:
-If someone would've wrote with marker instead of chalk, then they might not be able to use the eraser.
+If a man would've forgotten to purchase the strawberries at the grocery store, then he would have had to go back and purchase the strawberries at a different time.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "85754","Grocery store","scenario_1_",2,"If someone needs flour for a cake, the will drive to a grocery store, and purchase flour","If someone didn't need to buy flour for the cake, then they would have made the cake without going to the grocery store.","Imagine a typical Grocery store. Now consider these two statements about that place:
@@ -89,22 +107,22 @@ STATEMENT 2:
 If someone didn't need to buy flour for the cake, then they would have made the cake without going to the grocery store.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"85754","Grocery store","scenario_1_",3,"If someone forgets to bring a payment to the grocery store, they will have to leave and come back at another time","If someone would've remembered to bring a form of payment, then they would purchase their groceries and bring them home. ","Imagine a typical Grocery store. Now consider these two statements about that place:
+"86707","High school ","scenario_2_",2,"If the school lunch was bad, than the students would not want to eat it ","If the school lunch would've been  better, than the students would have eaten more of it ","Imagine a typical High school . Now consider these two statements about that place:
 
 STATEMENT 1:
-If someone forgets to bring a payment to the grocery store, they will have to leave and come back at another time.
+If the school lunch was bad, than the students would not want to eat it .
 
 STATEMENT 2:
-If someone would've remembered to bring a form of payment, then they would purchase their groceries and bring them home. 
+If the school lunch would've been  better, than the students would have eaten more of it 
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"86707","High school ","scenario_2_",3,"If the teacher was very mean, the students would not like them ","If the teacher wouldn't have been so mean, the students would have likes them more ","Imagine a typical High school . Now consider these two statements about that place:
+"A11YS0T8MV3Q7C","Airport","scenario_3_",1,"If the lady forgets her luggage bag at the check-in desk, then she will possibly miss her flight.","If the lady would've remembered her luggage bag at the check-in desk, then she would not have missed her flight.","Imagine a typical Airport. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the teacher was very mean, the students would not like them .
+If the lady forgets her luggage bag at the check-in desk, then she will possibly miss her flight..
 
 STATEMENT 2:
-If the teacher wouldn't have been so mean, the students would have likes them more 
+If the lady would've remembered her luggage bag at the check-in desk, then she would not have missed her flight.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "A11YS0T8MV3Q7C","Airport","scenario_3_",2,"If the man drinks too many drinks before getting on the airplane, then he will act up on the flight.","If the man would've not had too many drinks before getting on the airplane, then he would've behaved himself.","Imagine a typical Airport. Now consider these two statements about that place:
@@ -125,13 +143,13 @@ STATEMENT 2:
 If the woman would've have brought a lime green luggage bag, then it would have been easy for the baggage carrier to pick it out from others.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A11YS0T8MV3Q7C","Backyard barbecue","scenario_2_",1,"If the person grilling forgets to check the food, then there will be no food to eat.","If the person would've checked the food they were grilling, then there would have been food to eat.","Imagine a typical Backyard barbecue. Now consider these two statements about that place:
+"A11YS0T8MV3Q7C","Football game","scenario_1_",3,"If the game ends in a tie, then the fans will not be that pleased with the outcome.","If the game would've ended in a tie, then the fans would not have been pleased with the outcome.","Imagine a typical Football game. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the person grilling forgets to check the food, then there will be no food to eat..
+If the game ends in a tie, then the fans will not be that pleased with the outcome..
 
 STATEMENT 2:
-If the person would've checked the food they were grilling, then there would have been food to eat.
+If the game would've ended in a tie, then the fans would not have been pleased with the outcome.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "A1EM0NU4IIOSNL","Bar","scenario_1_",1,"If the lady has too much, then she might get tipsy.","If the lady hadn't had too much, then she might not have a headache.","Imagine a typical Bar. Now consider these two statements about that place:
@@ -152,13 +170,13 @@ STATEMENT 2:
 If the Uber hadn't shown up late, then the man wouldn't have had to walk.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A1EM0NU4IIOSNL","Bar","scenario_1_",3,"If the tip is too low, then the bartender might quit.","If the tip wasn't so low, then the bartender wouldn't have quit.","Imagine a typical Bar. Now consider these two statements about that place:
+"A29CDNFD1INS22","Coffee Shop","scenario_1_",1,"If a customer leaves their laptop unattended on a table for an extended period, another customer might take it to lost and found.","If the laptop had visible personal information on the screen, another customer might not feel comfortable taking it to lost and found, fearing misuse or privacy concerns.","Imagine a typical Coffee Shop. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the tip is too low, then the bartender might quit..
+If a customer leaves their laptop unattended on a table for an extended period, another customer might take it to lost and found..
 
 STATEMENT 2:
-If the tip wasn't so low, then the bartender wouldn't have quit.
+If the laptop had visible personal information on the screen, another customer might not feel comfortable taking it to lost and found, fearing misuse or privacy concerns.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "A29CDNFD1INS22","Coffee Shop","scenario_1_",2,"If a barista notices a regular customer looking unwell, they might offer them water or inquire if they're alright.","If the coffee shop was extremely busy and the barista was under pressure, they wouldn't have the time or attention to notice the regular customer's condition or offer personalized assistance.","Imagine a typical Coffee Shop. Now consider these two statements about that place:
@@ -233,13 +251,22 @@ STATEMENT 2:
 If the book wasn't actually rare or didn't align with the library's collection needs, the donor might not receive the same level of recognition, highlighting the importance of understanding collection development policies and the library's specific needs.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A3797G2O6PW1F4","Grocery Store","scenario_3_",1,"If the lady drops her purse, she will have to pick everything up.","If the lady dropped her purse, it would've spilled everywhere.","Imagine a typical Grocery Store. Now consider these two statements about that place:
+"A3TZ6KG6SP9RDT","grocery store","scenario_1_",2,"If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground.","If the customer hadn't left their shopping cart in the middle of the aisle, it wouldn't have caused a bottleneck for other shoppers trying to pass through. 2 / 2","Imagine a typical grocery store. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the lady drops her purse, she will have to pick everything up..
+If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground..
 
 STATEMENT 2:
-If the lady dropped her purse, it would've spilled everywhere.
+If the customer hadn't left their shopping cart in the middle of the aisle, it wouldn't have caused a bottleneck for other shoppers trying to pass through. 2 / 2
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"A3TZ6KG6SP9RDT","grocery store","scenario_1_",1,"If the person accidentally dropped the carton of eggs, then they would crack and make a mess on the floor","If the customer hadn't left their cart in the middle of the aisle, it wouldn't have caused a traffic jam in the grocery store","Imagine a typical grocery store. Now consider these two statements about that place:
+
+STATEMENT 1:
+If the person accidentally dropped the carton of eggs, then they would crack and make a mess on the floor.
+
+STATEMENT 2:
+If the customer hadn't left their cart in the middle of the aisle, it wouldn't have caused a traffic jam in the grocery store
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "A3TZ6KG6SP9RDT","grocery store","scenario_1_",3,"If the child pushed the display of glass bottles, then they would likely shatter and create a hazardous mess on the floor","If the shopper hadn't left their grocery bag unattended in the cart, it wouldn't have been stolen while they were browsing the aisles.","Imagine a typical grocery store. Now consider these two statements about that place:
@@ -249,15 +276,6 @@ If the child pushed the display of glass bottles, then they would likely shatter
 
 STATEMENT 2:
 If the shopper hadn't left their grocery bag unattended in the cart, it wouldn't have been stolen while they were browsing the aisles.
-
-For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A3TZ6KG6SP9RDT","grocery store","scenario_1_",2,"If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground.","If the customer hadn't left their shopping cart in the middle of the aisle, it wouldn't have caused a bottleneck for other shoppers trying to pass through. 2 / 2","Imagine a typical grocery store. Now consider these two statements about that place:
-
-STATEMENT 1:
-If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground..
-
-STATEMENT 2:
-If the customer hadn't left their shopping cart in the middle of the aisle, it wouldn't have caused a bottleneck for other shoppers trying to pass through. 2 / 2
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "A3TZ6KG6SP9RDT","gym","scenario_3_",1,"If the person drops a weight on the floor, it could make a loud noise.","If the woman hadn't left her grocery bags unattended in the cart, they wouldn't have been stolen when she turned her back for a moment.","Imagine a typical gym. Now consider these two statements about that place:
@@ -314,13 +332,13 @@ STATEMENT 2:
 If the person had returned their shopping cart to the designated area, it wouldn't have rolled away and hit another car in the parking lot
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A5P12YJP805RG","home","scenario_2_",1,"if the mouse skitters across the floor then you might step on it","if you didnt walk on the floor you wouldnt step on the mouse","Imagine a typical home. Now consider these two statements about that place:
+"AFEPFMO9863WA","Bar","scenario_1_",1,"If the Man makes the long island iced tea and slides it across the table, the customer will get the drink in their hand","If the Man had made the drink closer to the customer, he wouldn't have to slide it over to them","Imagine a typical Bar. Now consider these two statements about that place:
 
 STATEMENT 1:
-if the mouse skitters across the floor then you might step on it.
+If the Man makes the long island iced tea and slides it across the table, the customer will get the drink in their hand.
 
 STATEMENT 2:
-if you didnt walk on the floor you wouldnt step on the mouse
+If the Man had made the drink closer to the customer, he wouldn't have to slide it over to them
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "AFEPFMO9863WA","Bar","scenario_1_",2,"If the patron is carrying drinks on a tray moving fast, he will knock the table next to the bar and spill all the drinks","If the patron had taken the time to move slower and properly, the patron wouldn't have knocked the table near the bar spilling the drinks","Imagine a typical Bar. Now consider these two statements about that place:
@@ -341,22 +359,22 @@ STATEMENT 2:
 If the Man had played the music first, the music would've been the one that was playing the whole time.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"AFEPFMO9863WA","Beach","scenario_3_",1,"If the Man swims too close with his surf board against the waves, then he will get swept away and possibly may drown","If the Man hadn't swam too close with his surf board against the waves, he would've avoided getting swept away and possibly drowning.","Imagine a typical Beach. Now consider these two statements about that place:
+"AFEPFMO9863WA","Beach","scenario_3_",2,"If the family perch their beach things near the shoreline, the water will wash their stuff away and get everything wet","If the family hadn't perched their beach things near the shoreline, the water wouldn't be able to have the opportunity to wash their stuff away and get everything wet ","Imagine a typical Beach. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the Man swims too close with his surf board against the waves, then he will get swept away and possibly may drown.
+If the family perch their beach things near the shoreline, the water will wash their stuff away and get everything wet.
 
 STATEMENT 2:
-If the Man hadn't swam too close with his surf board against the waves, he would've avoided getting swept away and possibly drowning.
+If the family hadn't perched their beach things near the shoreline, the water wouldn't be able to have the opportunity to wash their stuff away and get everything wet 
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"AFEPFMO9863WA","Beach","scenario_3_",3,"If the man throws the beach ball past the shoreline, The waves will move the ball too far to swim and get it back","If the Man hadn't thrown the beach ball past the shoreline, The waves wouldn't be able to move the ball too far for the Man not to be able to swim and get it back.","Imagine a typical Beach. Now consider these two statements about that place:
+"AFEPFMO9863WA","Grocery Store","scenario_2_",1,"If the Man pushes the shopping cart fast, he will knock down the pyramid of canned food","If the Man hadn't pushed the shopping cart so fast, he wouldn't have knocked down the pyramid of canned food.","Imagine a typical Grocery Store. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the man throws the beach ball past the shoreline, The waves will move the ball too far to swim and get it back.
+If the Man pushes the shopping cart fast, he will knock down the pyramid of canned food.
 
 STATEMENT 2:
-If the Man hadn't thrown the beach ball past the shoreline, The waves wouldn't be able to move the ball too far for the Man not to be able to swim and get it back.
+If the Man hadn't pushed the shopping cart so fast, he wouldn't have knocked down the pyramid of canned food.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "AFEPFMO9863WA","Grocery Store","scenario_2_",2,"If the Man stocks too many boxes in the warehouse next door, they will fall over and knock the rest of the other boxes down","If the Man hadn't stocked too many boxes in the warehouse next door, the boxes wouldn't have knocked the rest of the other boxes down.","Imagine a typical Grocery Store. Now consider these two statements about that place:
@@ -377,49 +395,49 @@ STATEMENT 2:
 If the Woman scanning the products had been paying attention, then she would've kept track and scanned all the products leaving the store right.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"ANGJEGCCP3AO2","Recreation park","scenario_3_",1,"If children are visiting, then they are likely to be accompanied by an adult.","If children are visiting, then they would've to be accompanied by an adult.","Imagine a typical Recreation park. Now consider these two statements about that place:
+"ANGJEGCCP3AO2","bus","scenario_1_",1,"If an older person did not have a seat then a younger person having a sit is likely  to offer him/her the sit.","If an older person chooses to sit down, the younger person wouldn't need to offer their seat.","Imagine a typical bus. Now consider these two statements about that place:
 
 STATEMENT 1:
-If children are visiting, then they are likely to be accompanied by an adult..
+If an older person did not have a seat then a younger person having a sit is likely  to offer him/her the sit..
 
 STATEMENT 2:
-If children are visiting, then they would've to be accompanied by an adult.
+If an older person chooses to sit down, the younger person wouldn't need to offer their seat.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"ANGJEGCCP3AO2","bus","scenario_1_",2,"If someone had a kid then they are likely to sit near a window.","If someone didn't have a child, they would've to sit near the window.","Imagine a typical bus. Now consider these two statements about that place:
+"86742","College","scenario_1_",1,"If a student cheated on a test, they would be discipled ","If the student wouldn't have cheated, they wouldn't get disciplined","Imagine a typical College. Now consider these two statements about that place:
 
 STATEMENT 1:
-If someone had a kid then they are likely to sit near a window..
+If a student cheated on a test, they would be discipled .
 
 STATEMENT 2:
-If someone didn't have a child, they would've to sit near the window.
+If the student wouldn't have cheated, they wouldn't get disciplined
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"86742","College","scenario_1_",2,"If a student failed a class, they would not get credit for it ","If the student wouldn't have failed the class, they woud've gotten credit","Imagine a typical College. Now consider these two statements about that place:
+"86742","Movie Theater","scenario_3_",1,"If the movie was about to start, the audience would become quiet","If the movie wasn't about to start, the crowd wouldn't be quiet","Imagine a typical Movie Theater. Now consider these two statements about that place:
 
 STATEMENT 1:
-If a student failed a class, they would not get credit for it .
+If the movie was about to start, the audience would become quiet.
 
 STATEMENT 2:
-If the student wouldn't have failed the class, they woud've gotten credit
+If the movie wasn't about to start, the crowd wouldn't be quiet
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"86742","Movie Theater","scenario_3_",2,"If there was a jump scare in the movie, the audience would gasp","If there wasn't a jump scare in the movie, the audience wouldn't have gasped","Imagine a typical Movie Theater. Now consider these two statements about that place:
+"A11YS0T8MV3Q7C","Backyard barbecue","scenario_2_",2,"If the party is without alcohol to drink, then it won't be as fun.","If the party would've included alcohol to drink, then it would've been more fun.","Imagine a typical Backyard barbecue. Now consider these two statements about that place:
 
 STATEMENT 1:
-If there was a jump scare in the movie, the audience would gasp.
+If the party is without alcohol to drink, then it won't be as fun..
 
 STATEMENT 2:
-If there wasn't a jump scare in the movie, the audience wouldn't have gasped
+If the party would've included alcohol to drink, then it would've been more fun.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A11YS0T8MV3Q7C","Backyard barbecue","scenario_2_",3,"If the stereo breaks, then there won't be music to dance to. ","If the stereo wouldn't have broken, then there would have been music to dance to.","Imagine a typical Backyard barbecue. Now consider these two statements about that place:
+"A11YS0T8MV3Q7C","Football game","scenario_1_",1,"If the home team quarterback throws a touchdown pass, then the crowd will scream.","If the home team quarterback would've thrown a touchdown pass, then the crowd would have screamed.","Imagine a typical Football game. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the stereo breaks, then there won't be music to dance to. .
+If the home team quarterback throws a touchdown pass, then the crowd will scream..
 
 STATEMENT 2:
-If the stereo wouldn't have broken, then there would have been music to dance to.
+If the home team quarterback would've thrown a touchdown pass, then the crowd would have screamed.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
 "A11YS0T8MV3Q7C","Football game","scenario_1_",2,"If the ref calls a flag on the home team, then the players will be frustrated.","If the ref would've called a flag on the home team, then the players wouldn't have been happy about it.","Imagine a typical Football game. Now consider these two statements about that place:
@@ -431,21 +449,12 @@ STATEMENT 2:
 If the ref would've called a flag on the home team, then the players wouldn't have been happy about it.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A11YS0T8MV3Q7C","Football game","scenario_1_",3,"If the game ends in a tie, then the fans will not be that pleased with the outcome.","If the game would've ended in a tie, then the fans would not have been pleased with the outcome.","Imagine a typical Football game. Now consider these two statements about that place:
+"A3797G2O6PW1F4","School","scenario_1_",3,"if the lady spills her coffee, her desk will be a mess.","If the lady spilled her coffee, her desk would've been a mess. ","Imagine a typical School. Now consider these two statements about that place:
 
 STATEMENT 1:
-If the game ends in a tie, then the fans will not be that pleased with the outcome..
+if the lady spills her coffee, her desk will be a mess..
 
 STATEMENT 2:
-If the game would've ended in a tie, then the fans would not have been pleased with the outcome.
-
-For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
-"A3797G2O6PW1F4","Swimming Pool","scenario_2_",1,"If they lose the sunscreen, they will get burned.","If they lost the sunscreen, they would've gotten a sunburn.","Imagine a typical Swimming Pool. Now consider these two statements about that place:
-
-STATEMENT 1:
-If they lose the sunscreen, they will get burned..
-
-STATEMENT 2:
-If they lost the sunscreen, they would've gotten a sunburn.
+If the lady spilled her coffee, her desk would've been a mess. 
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."

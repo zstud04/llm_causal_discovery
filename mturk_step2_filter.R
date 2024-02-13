@@ -1,7 +1,9 @@
 library(dplyr)
 
 # TODO: define filtered questions in config- this is terrible code but no time right now
-rows_to_keep <- c(6,
+rows_to_keep <- c(
+4,
+6,
 10,
 11,
 13,
@@ -52,8 +54,14 @@ rows_to_keep <- c(6,
 63,
 97)
 
+rows_to_keep = rows_to_keep -1
+
 # Read the CSV file
+
 data <- read.csv("processed_mturkiter2.csv")
+
+print(data$embedded_prompt[5])
+
 
 # Filter the data to keep only the specified rows
 filtered_data <- data[rows_to_keep, ]
