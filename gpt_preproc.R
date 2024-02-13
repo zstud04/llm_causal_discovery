@@ -3,7 +3,7 @@ library(tidyverse)
 library(glue)
 
 # Load the data from CSV
-data <- read.csv("data/mturkiter2.csv") %>%
+data <- read.csv("data/mturkiter2_1.csv") %>%
   slice(-1:-6)
   
   print(data)
