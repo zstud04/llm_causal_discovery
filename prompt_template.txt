@@ -1,6 +1,6 @@
 Imagine a typical {place}. Now consider this statement about that place
 
-STATEMENT 1:
+STATEMENT:
 {causal_value}.
 
 For this statement, respond with your level of agreement using one of the options from this scale:
