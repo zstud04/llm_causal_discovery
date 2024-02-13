@@ -3,5 +3,12 @@ Imagine a typical {place}. Now consider this statement about that place
 STATEMENT:
 {causal_value}.
 
-For this statement, respond with your level of agreement using one of the options from this scale:
-"Definitely false", "Probably false", "Neither true nor false", "Probably true", "Definitely true"
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: "Definitely false", 
+2: "Probably false", 
+3: "Neither true nor false", 
+4: "Probably true", 
+5: "Definitely true"
+
+Ensure you respond with a number.
