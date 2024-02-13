@@ -395,3 +395,57 @@ STATEMENT 2:
 If someone didn't have a child, they would've to sit near the window.
 
 For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"86742","College","scenario_1_",2,"If a student failed a class, they would not get credit for it ","If the student wouldn't have failed the class, they woud've gotten credit","Imagine a typical College. Now consider these two statements about that place:
+
+STATEMENT 1:
+If a student failed a class, they would not get credit for it .
+
+STATEMENT 2:
+If the student wouldn't have failed the class, they woud've gotten credit
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"86742","Movie Theater","scenario_3_",2,"If there was a jump scare in the movie, the audience would gasp","If there wasn't a jump scare in the movie, the audience wouldn't have gasped","Imagine a typical Movie Theater. Now consider these two statements about that place:
+
+STATEMENT 1:
+If there was a jump scare in the movie, the audience would gasp.
+
+STATEMENT 2:
+If there wasn't a jump scare in the movie, the audience wouldn't have gasped
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"A11YS0T8MV3Q7C","Backyard barbecue","scenario_2_",3,"If the stereo breaks, then there won't be music to dance to. ","If the stereo wouldn't have broken, then there would have been music to dance to.","Imagine a typical Backyard barbecue. Now consider these two statements about that place:
+
+STATEMENT 1:
+If the stereo breaks, then there won't be music to dance to. .
+
+STATEMENT 2:
+If the stereo wouldn't have broken, then there would have been music to dance to.
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"A11YS0T8MV3Q7C","Football game","scenario_1_",2,"If the ref calls a flag on the home team, then the players will be frustrated.","If the ref would've called a flag on the home team, then the players wouldn't have been happy about it.","Imagine a typical Football game. Now consider these two statements about that place:
+
+STATEMENT 1:
+If the ref calls a flag on the home team, then the players will be frustrated..
+
+STATEMENT 2:
+If the ref would've called a flag on the home team, then the players wouldn't have been happy about it.
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"A11YS0T8MV3Q7C","Football game","scenario_1_",3,"If the game ends in a tie, then the fans will not be that pleased with the outcome.","If the game would've ended in a tie, then the fans would not have been pleased with the outcome.","Imagine a typical Football game. Now consider these two statements about that place:
+
+STATEMENT 1:
+If the game ends in a tie, then the fans will not be that pleased with the outcome..
+
+STATEMENT 2:
+If the game would've ended in a tie, then the fans would not have been pleased with the outcome.
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
+"A3797G2O6PW1F4","Swimming Pool","scenario_2_",1,"If they lose the sunscreen, they will get burned.","If they lost the sunscreen, they would've gotten a sunburn.","Imagine a typical Swimming Pool. Now consider these two statements about that place:
+
+STATEMENT 1:
+If they lose the sunscreen, they will get burned..
+
+STATEMENT 2:
+If they lost the sunscreen, they would've gotten a sunburn.
+
+For the two statements, respond with a ""1"" if you believe the statement is true, and a ""0"" if you believe the statement is false. Separate your two responses by a comma."
