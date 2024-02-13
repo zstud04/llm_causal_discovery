@@ -1,9 +1,7 @@
-Imagine a typical {place}. Now consider these two statements about that place:
+Imagine a typical {place}. Now consider this statement about that place
 
 STATEMENT 1:
 {causal_value}.
 
-STATEMENT 2:
-{counterfactual_value}
-
-For the two statements, respond with a "1" if you believe the statement is true, and a "0" if you believe the statement is false. Separate your two responses by a comma.
+For this statement, respond with your level of agreement using one of the options from this scale:
+"Definitely false", "Probably false", "Neither true nor false", "Probably true", "Definitely true"
