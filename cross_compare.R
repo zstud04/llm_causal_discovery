@@ -8,6 +8,9 @@ data <- read.csv("data/causal_response.csv")
 # Step 2: Identify self-rating and others agree columns
 self_rating_columns <- grep("self_rating$", names(data), value = TRUE)
 agree_columns <- grep("others_agreee_w_self$", names(data), value = TRUE)
+llm_agree_columns <- grep("llm_true$", names(data), value=TRUE)
+
+print(data[llm_agree_columns])
 
 # Step 3: Map strings to numbers for all self-rating and agree questions using case_when
 data_mapped <- data %>%
@@ -26,7 +29,15 @@ data_mapped <- data %>%
     . == "61-80%" ~ 4,
     . == "81-100%" ~ 5,
     TRUE ~ NA_real_ # Handles cases that don't match any of the above
+  ))) %>%
+  mutate(across(all_of(llm_agree_columns), ~case_when(
+    . == "True" ~ 1,
+    . == "Confused" ~ 0,
+    . == "False" ~ -1,
+    TRUE ~ NA_real_ # Handles cases that don't match any of the above
   )))
+
+  print(llm_agree_columns)
 
 # Step 4: Calculate average scores for each self-rating and agree question
 average_scores <- sapply(data_mapped[self_rating_columns], mean, na.rm = TRUE)
@@ -36,13 +47,21 @@ average_agree_scores <- sapply(data_mapped[agree_columns], mean, na.rm = TRUE)
 variance_score <- sapply(data_mapped[self_rating_columns], var, na.rm = TRUE)
 variance_agree_score <- sapply(data_mapped[agree_columns], var, na.rm = TRUE)
 
+# Step 4.5: get the mean and variance for GPT ratings
+average_gpt_scores <- sapply(data_mapped[llm_agree_columns], mean, na.rm = TRUE)
+variance_gpt_scores <- sapply(data_mapped[llm_agree_columns], var, na.rm = TRUE)
+
+print(data_mapped[llm_agree_columns])
+
 # Step 5: Create a new DataFrame with question prompts, average scores, and average agree scores
 question_prompts <- gsub("_self_rating$", "", self_rating_columns)
 result_df <- data.frame(Question = question_prompts, 
                         AverageScore = average_scores, 
                         AverageAgreeScore = average_agree_scores,
                         VarianceScore = variance_score,
-                        VarianceAgreeScore = variance_agree_score)
+                        VarianceAgreeScore = variance_agree_score,
+                        AverageGPTScore = average_gpt_scores,
+                        VarianceGPTScore = variance_gpt_scores)
 
 # Before proceeding, ensure result_df has 51 rows by removing the last two rows
 result_df <- head(result_df, n = 51)
@@ -84,3 +103,8 @@ result_df_reordered <- result_df %>% arrange(desc(GPTScore), desc(ScoreDifferenc
 write.csv(result_df_reordered, "statements_ordered_by_GPTScore_then_AverageScore.csv", row.names = FALSE)
 cat("Exported the reordered statements to: statements_ordered_by_GPTScore_then_AverageScore.csv\n")
 
+r_agreement_gpt_endorsement = cor(result_df$GPTScore, (result_df$VarianceScore * -1))
+print("r: agreement~gpt endorsement")
+print(r_agreement_gpt_endorsement)
+
+r_others_agreement_gpt_endorsement = cor(result_df$GPTScore, (result_df$VarianceAgreeScore * -1))
