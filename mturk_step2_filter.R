@@ -58,7 +58,7 @@ rows_to_keep = rows_to_keep -1
 
 # Read the CSV file
 
-data <- read.csv("processed_mturkiter2.csv")
+data <- read.csv("data/gpt-4-0125-preview_response_0.csv", header=FALSE)
 
 print(data$embedded_prompt[5])
 
@@ -67,7 +67,7 @@ print(data$embedded_prompt[5])
 filtered_data <- data[rows_to_keep, ]
 
 # Write the filtered data to a new CSV file
-write.csv(filtered_data, "filtered_data.csv", row.names = FALSE)
+write.csv(filtered_data, "filtered_gpt_data.csv", row.names = FALSE)
 
 print("Filtered data has been saved to filtered_data.csv")
 

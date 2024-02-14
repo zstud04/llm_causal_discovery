@@ -1,0 +1,2016 @@
+"""Imagine a typical Beach. Now consider this statement about that place
+
+STATEMENT:
+If I build many sandcastles, then there will be a small village on the beach.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Beach. Now consider this statement about that place
+
+STATEMENT:
+If someone's umbrella is blown away, it is an exceptionally windy day.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Beach. Now consider this statement about that place
+
+STATEMENT:
+If I put on sunglasses, and put on another pair and take those off, then I will still be wearing sunglasses .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Library. Now consider this statement about that place
+
+STATEMENT:
+If a person wants to borrow a book, then they need to send the borrow requests..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Library. Now consider this statement about that place
+
+STATEMENT:
+If a person takes a book without sending borrow requests, then they will be punished by library rules..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Library. Now consider this statement about that place
+
+STATEMENT:
+If you are in a quiet area in the library, then you should not talk loud..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical School. Now consider this statement about that place
+
+STATEMENT:
+If the school bell rings, students then need to be in classroom waiting for class to begin..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical School. Now consider this statement about that place
+
+STATEMENT:
+If the teacher says ' class dimisses', students then can have their break to relax between classes,.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical School. Now consider this statement about that place
+
+STATEMENT:
+If two student are being disrespectful to each other, they then will be punished by their dean..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Train. Now consider this statement about that place
+
+STATEMENT:
+If I see a building while riding the train, that building is between my destination and point of origin .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Train. Now consider this statement about that place
+
+STATEMENT:
+If I am sitting down on the train, I am either drinking coffee or not drinking coffee.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Train. Now consider this statement about that place
+
+STATEMENT:
+If the sleeping car is not open, then I can still sleep on the train.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical University campus. Now consider this statement about that place
+
+STATEMENT:
+If someone had taken a campus tour, then they'd have seen the university .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical University campus. Now consider this statement about that place
+
+STATEMENT:
+If the sidewalks are crowded, it is probably passing time.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical University campus. Now consider this statement about that place
+
+STATEMENT:
+If someone is running for the bus, they might be late for class.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical grocery store. Now consider this statement about that place
+
+STATEMENT:
+If a customer buy some produce, they then will need to pay for it..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical grocery store. Now consider this statement about that place
+
+STATEMENT:
+If a customer doesn't pay for what they have, they then will be caught and punished..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical grocery store. Now consider this statement about that place
+
+STATEMENT:
+If there is free pastry sample, people then can have a tiny bite of the taste..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Airport. Now consider this statement about that place
+
+STATEMENT:
+If someone brings water through security, security will take the water, then the person will have to purchase a new water..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Airport. Now consider this statement about that place
+
+STATEMENT:
+If someone prints their plane tickets ahead of time, they wont have to print them at the airport, and then it will take less long..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Airport. Now consider this statement about that place
+
+STATEMENT:
+if someone looses their luggage, they will have to contact the airline, so then they can retrieve their luggage..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Classroom. Now consider this statement about that place
+
+STATEMENT:
+If someone writes on a chalkboard, they will have to use an eraser to remove the writing.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Classroom. Now consider this statement about that place
+
+STATEMENT:
+If someone forgets a pencil on the day of the exam, they will have to ask there classmates to borrow a pencil for the exam.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Classroom. Now consider this statement about that place
+
+STATEMENT:
+If the teacher brings a treat for the class, they will pass it out to the students, so then they will eat the treat.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery store. Now consider this statement about that place
+
+STATEMENT:
+If a man put stawberries on his grocery list, then he will have to find them at the grocery store and then purchase them.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery store. Now consider this statement about that place
+
+STATEMENT:
+If someone needs flour for a cake, the will drive to a grocery store, and purchase flour.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Grocery store. Now consider this statement about that place
+
+STATEMENT:
+If someone forgets to bring a payment to the grocery store, they will have to leave and come back at another time.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical gym. Now consider this statement about that place
+
+STATEMENT:
+If you run 4 laps around the track then you ran a mile.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical gym. Now consider this statement about that place
+
+STATEMENT:
+If you need a break from your reps then drink water.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical gym. Now consider this statement about that place
+
+STATEMENT:
+If you continuously lift weights then you will see gains.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical restaurant. Now consider this statement about that place
+
+STATEMENT:
+If the food is hot then you might burn your mouth.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical restaurant. Now consider this statement about that place
+
+STATEMENT:
+If the waiter asks what you want to eat then you should order.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical restaurant. Now consider this statement about that place
+
+STATEMENT:
+If your plate is cleared then you are ready for the check.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical beach. Now consider this statement about that place
+
+STATEMENT:
+If the waves crash then you might drown.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",2
+"""Imagine a typical beach. Now consider this statement about that place
+
+STATEMENT:
+If the sand is hot the you might burn your feet.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical beach. Now consider this statement about that place
+
+STATEMENT:
+If the sun is out then it will be warm and you can tan.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Bedroom . Now consider this statement about that place
+
+STATEMENT:
+If I threw all of my clothes on the floor, than my room would be very messy .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Bedroom . Now consider this statement about that place
+
+STATEMENT:
+If my mom cooked dinner, than my family would sit at the table .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Bedroom . Now consider this statement about that place
+
+STATEMENT:
+If the child made a mess, someone would have to clean it up .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Grocery store. Now consider this statement about that place
+
+STATEMENT:
+If the woman forgot her money, than someone would help her pay .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Grocery store. Now consider this statement about that place
+
+STATEMENT:
+If the man knocked over the pile of paper towels, than the worker would be mad.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery store. Now consider this statement about that place
+
+STATEMENT:
+If the child cried really loud, than the other people in the store would be annoyed.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical High school . Now consider this statement about that place
+
+STATEMENT:
+If the student forgot his backpack, he would not have a very productive day .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical High school . Now consider this statement about that place
+
+STATEMENT:
+If the school lunch was bad, than the students would not want to eat it .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical High school . Now consider this statement about that place
+
+STATEMENT:
+If the teacher was very mean, the students would not like them .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical College. Now consider this statement about that place
+
+STATEMENT:
+If a student cheated on a test, they would be discipled .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical College. Now consider this statement about that place
+
+STATEMENT:
+If a student failed a class, they would not get credit for it .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical College. Now consider this statement about that place
+
+STATEMENT:
+If a student was struggling in a class, they would get a tutor.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Concert. Now consider this statement about that place
+
+STATEMENT:
+If the band stopped playing music, the crowd would be sad.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Concert. Now consider this statement about that place
+
+STATEMENT:
+If the band played their best song, the crowd would sing and dance.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Concert. Now consider this statement about that place
+
+STATEMENT:
+If the band said they were done for the night, the crowd would leave.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Movie Theater. Now consider this statement about that place
+
+STATEMENT:
+If the movie was about to start, the audience would become quiet.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Movie Theater. Now consider this statement about that place
+
+STATEMENT:
+If there was a jump scare in the movie, the audience would gasp.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Movie Theater. Now consider this statement about that place
+
+STATEMENT:
+If there was a sad part in the movie, the audience would sigh.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Airport. Now consider this statement about that place
+
+STATEMENT:
+If the lady forgets her luggage bag at the check-in desk, then she will possibly miss her flight..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Airport. Now consider this statement about that place
+
+STATEMENT:
+If the man drinks too many drinks before getting on the airplane, then he will act up on the flight..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Airport. Now consider this statement about that place
+
+STATEMENT:
+If the woman brings a lime green luggage bag to the terminal, then the baggage carrier willbe able to pick it out easily from others..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Backyard barbecue. Now consider this statement about that place
+
+STATEMENT:
+If the person grilling forgets to check the food, then there will be no food to eat..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",2
+"""Imagine a typical Backyard barbecue. Now consider this statement about that place
+
+STATEMENT:
+If the party is without alcohol to drink, then it won't be as fun..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Backyard barbecue. Now consider this statement about that place
+
+STATEMENT:
+If the stereo breaks, then there won't be music to dance to. .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Football game. Now consider this statement about that place
+
+STATEMENT:
+If the home team quarterback throws a touchdown pass, then the crowd will scream..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Football game. Now consider this statement about that place
+
+STATEMENT:
+If the ref calls a flag on the home team, then the players will be frustrated..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Football game. Now consider this statement about that place
+
+STATEMENT:
+If the game ends in a tie, then the fans will not be that pleased with the outcome..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Bar. Now consider this statement about that place
+
+STATEMENT:
+If the lady has too much, then she might get tipsy..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Bar. Now consider this statement about that place
+
+STATEMENT:
+If the Uber shows up late, then the man might have to walk..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Bar. Now consider this statement about that place
+
+STATEMENT:
+If the tip is too low, then the bartender might quit..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Car. Now consider this statement about that place
+
+STATEMENT:
+If the keys don't work, then she will scream..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Car. Now consider this statement about that place
+
+STATEMENT:
+If the tire is flat, then she will call someone..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Car. Now consider this statement about that place
+
+STATEMENT:
+If the weather is hot, then she will roll down the window..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Zoo. Now consider this statement about that place
+
+STATEMENT:
+If the giraffe jumps, then it might hit its head..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Zoo. Now consider this statement about that place
+
+STATEMENT:
+If the child falls into the cage, then he will be eaten..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",1
+"""Imagine a typical Zoo. Now consider this statement about that place
+
+STATEMENT:
+If the snake slithers away, it might get run over..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical car. Now consider this statement about that place
+
+STATEMENT:
+If speeding you will get a ticket.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical car. Now consider this statement about that place
+
+STATEMENT:
+Going slow is not allowed too..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical car. Now consider this statement about that place
+
+STATEMENT:
+Seatbelts are a good idea.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Pool. Now consider this statement about that place
+
+STATEMENT:
+When there you definitedly are not allowed to pee in it..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Pool. Now consider this statement about that place
+
+STATEMENT:
+If there you swim.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Pool. Now consider this statement about that place
+
+STATEMENT:
+Sailing in rafts allowed.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical bedroom. Now consider this statement about that place
+
+STATEMENT:
+If together a place for sex.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical bedroom. Now consider this statement about that place
+
+STATEMENT:
+Snoring allowed when asleep.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical bedroom. Now consider this statement about that place
+
+STATEMENT:
+Dancing not allowed when there.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Coffee Shop. Now consider this statement about that place
+
+STATEMENT:
+If a customer leaves their laptop unattended on a table for an extended period, another customer might take it to lost and found..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Coffee Shop. Now consider this statement about that place
+
+STATEMENT:
+If a barista notices a regular customer looking unwell, they might offer them water or inquire if they're alright..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Coffee Shop. Now consider this statement about that place
+
+STATEMENT:
+If a child spills their drink on the floor, a parent or staff member will likely clean it up immediately..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If a customer accidentally knocks over a display of fruits, they will likely apologize to a staff member and help clean it up..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If a child throws a tantrum because they want candy, a parent will likely try to calm them down and explain why they can't have it..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If someone notices an expired product on the shelf, they might inform a staff member so it can be removed..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Public Library. Now consider this statement about that place
+
+STATEMENT:
+If a patron returns a book several weeks overdue, they will likely owe a late fee..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Public Library. Now consider this statement about that place
+
+STATEMENT:
+If a child starts running through the library, a librarian or parent might remind them to walk quietly..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Public Library. Now consider this statement about that place
+
+STATEMENT:
+If someone donates a rare book to the library, they might receive a special thank you from the librarian or even have their name listed as a donor..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If the lady drops her purse, she will have to pick everything up..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If the man forgets his money, he will not be able to pay..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If I drop a jar, there will be a mess to clean up. .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical School. Now consider this statement about that place
+
+STATEMENT:
+If the boy loses his pencil, he will not be able to write..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical School. Now consider this statement about that place
+
+STATEMENT:
+If the man drops his books, he will be late to class..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical School. Now consider this statement about that place
+
+STATEMENT:
+if the lady spills her coffee, her desk will be a mess..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Swimming Pool. Now consider this statement about that place
+
+STATEMENT:
+If they lose the sunscreen, they will get burned..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Swimming Pool. Now consider this statement about that place
+
+STATEMENT:
+If the man brings his towel, he will be able to dry off..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Swimming Pool. Now consider this statement about that place
+
+STATEMENT:
+if the children throw a ball, it will make a big splash. .
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Movie theater. Now consider this statement about that place
+
+STATEMENT:
+If the drink is spilled then someone else will clean it up..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Movie theater. Now consider this statement about that place
+
+STATEMENT:
+If you yell at the screen then someone will throw food at you..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Movie theater. Now consider this statement about that place
+
+STATEMENT:
+If you answer your phone you'll make everyone else upset..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical dog park. Now consider this statement about that place
+
+STATEMENT:
+If you throw a ball for your dog another dog will take it to their owner..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical dog park. Now consider this statement about that place
+
+STATEMENT:
+If you look at your phone too much you'll miss all the cute animals..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical dog park. Now consider this statement about that place
+
+STATEMENT:
+If your dog is too friendly they'll have to go home..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",1
+"""Imagine a typical mall. Now consider this statement about that place
+
+STATEMENT:
+If the store is closed then shoppers will still buy products..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical mall. Now consider this statement about that place
+
+STATEMENT:
+If the teenagers stop coming the mall is dead..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical mall. Now consider this statement about that place
+
+STATEMENT:
+If you enter the store from the street the mall is failing..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical grocery store. Now consider this statement about that place
+
+STATEMENT:
+If the person accidentally dropped the carton of eggs, then they would crack and make a mess on the floor.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical grocery store. Now consider this statement about that place
+
+STATEMENT:
+If the customer accidentally bumped into the display of glass bottles, then some of them would likely shatter on the ground..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical grocery store. Now consider this statement about that place
+
+STATEMENT:
+If the child pushed the display of glass bottles, then they would likely shatter and create a hazardous mess on the floor.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical gym. Now consider this statement about that place
+
+STATEMENT:
+If the person drops a weight on the floor, it could make a loud noise..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical gym. Now consider this statement about that place
+
+STATEMENT:
+If the person drops the dumbbell, it may cause a loud noise and potentially damage the floor..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical gym. Now consider this statement about that place
+
+STATEMENT:
+If someone left their water bottle on the weight bench, someone else might accidentally knock it over when lifting weights, causing a spill.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical locaion. Now consider this statement about that place
+
+STATEMENT:
+If a child played with the cereal boxes and knocked them off the shelf, then they might burst open, scattering cereal everywhere.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical locaion. Now consider this statement about that place
+
+STATEMENT:
+If a shopper accidentally spilled a bottle of olive oil, then the floor could become dangerously slippery.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical locaion. Now consider this statement about that place
+
+STATEMENT:
+If the customer squeezed the loaf of bread too hard, then it could become squished and flattened.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical home. Now consider this statement about that place
+
+STATEMENT:
+if the mouse skitters across the floor then you might step on it.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical home. Now consider this statement about that place
+
+STATEMENT:
+if the spider lives too long then the baby spiders will swarm.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical home. Now consider this statement about that place
+
+STATEMENT:
+if the heat runs for infinity then the house might overheat.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical park. Now consider this statement about that place
+
+STATEMENT:
+if the dog bites the kid then it would have rabies.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",2
+"""Imagine a typical park. Now consider this statement about that place
+
+STATEMENT:
+if the pedo diddles the kid then he should be hanged.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical park. Now consider this statement about that place
+
+STATEMENT:
+if someone litters then the plastic gets eaten by seagulls.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical pond. Now consider this statement about that place
+
+STATEMENT:
+if the fisherman fishes then the fish will bite.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical pond. Now consider this statement about that place
+
+STATEMENT:
+if the boat rocks then it might rock over.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical pond. Now consider this statement about that place
+
+STATEMENT:
+if the pond explodes then the fish will die.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Bar. Now consider this statement about that place
+
+STATEMENT:
+If the Man makes the long island iced tea and slides it across the table, the customer will get the drink in their hand.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Bar. Now consider this statement about that place
+
+STATEMENT:
+If the patron is carrying drinks on a tray moving fast, he will knock the table next to the bar and spill all the drinks.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Bar. Now consider this statement about that place
+
+STATEMENT:
+If the Man plays music in the jukebox, the music will play after the song before and play for a few minutes.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Beach. Now consider this statement about that place
+
+STATEMENT:
+If the Man swims too close with his surf board against the waves, then he will get swept away and possibly may drown.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Beach. Now consider this statement about that place
+
+STATEMENT:
+If the family perch their beach things near the shoreline, the water will wash their stuff away and get everything wet.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical Beach. Now consider this statement about that place
+
+STATEMENT:
+If the man throws the beach ball past the shoreline, The waves will move the ball too far to swim and get it back.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If the Man pushes the shopping cart fast, he will knock down the pyramid of canned food.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If the Man stocks too many boxes in the warehouse next door, they will fall over and knock the rest of the other boxes down.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Grocery Store. Now consider this statement about that place
+
+STATEMENT:
+If the Woman scanning the products is not paying attention, then she will lose track and scan all the products leaving the store properly.
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",1
+"""Imagine a typical Recreation park. Now consider this statement about that place
+
+STATEMENT:
+If children are visiting, then they are likely to be accompanied by an adult..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Recreation park. Now consider this statement about that place
+
+STATEMENT:
+If it is a public recreation park, then they are likely to be large crowd..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical Recreation park. Now consider this statement about that place
+
+STATEMENT:
+If they are pets to be allowed, then they must be accompanied by the owner..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",5
+"""Imagine a typical swimming pool. Now consider this statement about that place
+
+STATEMENT:
+If the person happens to be a kid, then they are likely to be charged less..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical swimming pool. Now consider this statement about that place
+
+STATEMENT:
+If a person is a kid, then they are likely to swim in the shallow end..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical swimming pool. Now consider this statement about that place
+
+STATEMENT:
+If a person did not carry swimming costumes, then they will be charged more..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical bus. Now consider this statement about that place
+
+STATEMENT:
+If an older person did not have a seat then a younger person having a sit is likely  to offer him/her the sit..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",4
+"""Imagine a typical bus. Now consider this statement about that place
+
+STATEMENT:
+If someone had a kid then they are likely to sit near a window..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
+"""Imagine a typical bus. Now consider this statement about that place
+
+STATEMENT:
+If someone had some goods then they are likely to pay more than the rest..
+
+For this statement, respond with your level of agreement using one of the number options from this scale:
+
+1: ""Definitely false"", 
+2: ""Probably false"", 
+3: ""Neither true nor false"", 
+4: ""Probably true"", 
+5: ""Definitely true""
+
+Ensure you respond with a number.""",3
